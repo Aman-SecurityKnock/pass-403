@@ -1,5 +1,5 @@
 #! /bin/bash
-figlet Bypass-403
+figlet pass-403
 echo "                                               By Aman-S-K"
 echo "./bypass-403.sh https://example.com path"
 echo " "
